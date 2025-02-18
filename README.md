@@ -1,9 +1,19 @@
 # MULTITHREADED-CHAT-APPLICATION
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: HARSH CHHAPARWAL
+
+*INTERN ID*: CTO8UBY
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: MUZAMMIL AHMED
 
 
 
-
-DESCRIPTION:
+##DESCRIPTION:
 Overview:
 This Java-based chat application enables real-time messaging between multiple clients using Sockets and Multithreading. The system consists of a server that listens for incoming connections and clients that communicate through the server. It supports multiple users simultaneously by handling each client on a separate thread.
 
